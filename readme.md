@@ -16,7 +16,7 @@ Cada pasta irá armazenar os respectivos produtos finais de cada parte do projet
 * Tales Miguel
 * Walter Kenji  
 
-## **📌 Sobre o Projeto**
+## **Sobre o Projeto**
 
 Este projeto nasceu da ideia de desenvolver um aplicativo que sugere receitas com base em uma foto dos alimentos disponíveis na geladeira utilizando Inteligência Artificial. Além disso, incluímos algumas funcionalidades extras para melhorar a experiência do usuário:
 
@@ -24,23 +24,23 @@ Este projeto nasceu da ideia de desenvolver um aplicativo que sugere receitas co
 * ⏳ **Controle de validade dos alimentos**  
 * 🔍 **Filtros de busca por tempo de preparo e dificuldade**
 
-## **🎯 Pesquisa com o Público-Alvo**
+## **Pesquisa com o Público-Alvo**
 
 Para validar nossa ideia, realizamos uma pesquisa por meio de um formulário online, direcionado a pessoas que:
 
 * Não têm muito tempo para cozinhar  
 * Precisam de mais criatividade para elaborar refeições
 
-### **🔎 Resultados da Pesquisa**
+### **Resultados da Pesquisa**
 
 A partir das respostas coletadas, destacamos os seguintes insights:
 
-* 🍳 A maioria das pessoas cozinha algumas vezes por semana  
-* 🍽️ Elas gostam de variar nos preparos das receitas  
-* ⏰ A principal barreira para cozinhar mais é a falta de tempo e criatividade  
-* 🛒 Muitas pessoas fazem listas de compras antes de ir ao mercado  
-* ❄️ Alimentos costumam estragar com frequência na geladeira  
-* 🔍 Buscam receitas novas, preferindo aquelas que utilizam ingredientes já disponíveis em casa
+* A maioria das pessoas cozinha algumas vezes por semana  
+* Elas gostam de variar nos preparos das receitas  
+* A principal barreira para cozinhar mais é a falta de tempo e criatividade  
+* Muitas pessoas fazem listas de compras antes de ir ao mercado  
+* Alimentos costumam estragar com frequência na geladeira  
+* Buscam receitas novas, preferindo aquelas que utilizam ingredientes já disponíveis em casa
 
 Com base nesse feedback, decidimos incluir no aplicativo a opção de inserir os ingredientes manualmente por meio de uma lista, além do reconhecimento via foto. 
 
@@ -80,9 +80,11 @@ Com base nesse feedback, decidimos incluir no aplicativo a opção de inserir os
 
 ![Gráfico de respostas do Formulários Google. Título da pergunta: Quais funcionalidades você acredita que seriam mais úteis num aplicativo de receitas? (Escolha até 3). Número de respostas: 32 respostas.](images/image18.png)
 
-**📌 Desenvolvimento do Projeto**
+---
 
-### **📝 Planejamento**
+**Desenvolvimento do Projeto**
+
+### **Planejamento**
 
 1. **Flow Analysis e Sketches**
 
@@ -102,8 +104,12 @@ Com base nesse feedback, decidimos incluir no aplicativo a opção de inserir os
    * Criamos um protótipo interativo no Figma, representando o design final da aplicação.  
    * 🔗 [Acesse o protótipo no Figma](https://www.figma.com/design/ymdVMQNjssJiL8bwgfpeDr/P3?node-id=0-1&p=f&t=zZKnqbWPlVUK7Nbz-0)
 
-## **🚀 Conclusão**
+## **Conclusão**
 
-Nosso projeto busca facilitar o dia a dia das pessoas, reduzindo o desperdício de alimentos e tornando o preparo das refeições mais prático e acessível. O desenvolvimento do aplicativo passou por diversas etapas, desde a pesquisa com usuários até a prototipação no Figma, garantindo que as funcionalidades atendam às necessidades reais do público-alvo.
+Nosso projeto busca facilitar o dia a dia das pessoas, reduzindo o desperdício de alimentos e tornando o preparo das refeições mais prático e acessível.
+
+O desenvolvimento do aplicativo passou por diversas etapas, desde a pesquisa com usuários até a prototipação no Figma, garantindo que as funcionalidades atendam às necessidades reais do público-alvo.
+
+Apesar da proposta inicial focar principalmente na captura de ingredientes via imagem (foto da geladeira, por exemplo), observamos que o público-alvo entrevistado via questionário tem preferência na inserção de ingredientes via texto, seja por comodidade ou agilidade. Esse pequeno teste com possíveis usuários nos mostrou a importância de um estudo de caso de UX como parte do planejamento no desenvolvimento de um software.
 
 ---
