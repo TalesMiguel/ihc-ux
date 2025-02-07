@@ -114,11 +114,13 @@ Após desenvolvermos o protótipo de alta fidelidade, outro grupo avaliou nosso 
 
 1. Match between system and the real world:
 
-    - ![Faltam imagens e ícones para deixar mais claras as opções.](images/erro_home.jpg)
+    - Faltam imagens e ícones para deixar mais claras as opções.
+    ![](images/erro_home.jpg)
 
 2. User control and freedom:
 
-    - ![Faltou uma opção para o usuário desistir de tirar uma foto (caso tenha clicado errado) e apenas voltar para a tela anterior.](images/erro_foto.jpeg)
+    - Faltou uma opção para o usuário desistir de tirar uma foto (caso tenha clicado errado) e apenas voltar para a tela anterior.
+    ![](images/erro_foto.jpeg)
 
     - Não há um botão claro para voltar para a tela home após uma consulta.
 
@@ -128,7 +130,9 @@ Após desenvolvermos o protótipo de alta fidelidade, outro grupo avaliou nosso 
 
 3. Consistency and standards:
 
-    - ![Botões com explicação não precisam de setas adicionais (inclusive na tela de login).](images/erro_botao_iniciar.jpeg)
+    - Botões com explicação não precisam de setas adicionais (inclusive na tela de login).
+    
+    ![](images/erro_botao_iniciar.jpeg)
 
     - O botão "Continuar" deveria levar à tela home, e não às receitas.
 
