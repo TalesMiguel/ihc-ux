@@ -82,7 +82,7 @@ Com base nesse feedback, decidimos incluir no aplicativo a opção de inserir os
 
 ---
 
-**Desenvolvimento do Projeto**
+## **Desenvolvimento do Projeto**
 
 ### **Planejamento**
 
@@ -103,6 +103,62 @@ Com base nesse feedback, decidimos incluir no aplicativo a opção de inserir os
 
    * Criamos um protótipo interativo no Figma, representando o design final da aplicação.  
    * 🔗 [Acesse o protótipo no Figma](https://www.figma.com/design/ymdVMQNjssJiL8bwgfpeDr/P3?node-id=0-1&p=f&t=zZKnqbWPlVUK7Nbz-0)
+
+---
+
+## Avaliação Heurística
+
+Após desenvolvermos o protótipo de alta fidelidade, outro grupo avaliou nosso protótipo e realizou uma avaliação heurística, identificando alguns pontos de melhoria:
+
+### Principais Pontos Avaliados
+
+1. Match between system and the real world:
+
+    - ![Faltam imagens e ícones para deixar mais claras as opções.](images/erro_home.jpg)
+
+2. User control and freedom:
+
+    - ![Faltou uma opção para o usuário desistir de tirar uma foto (caso tenha clicado errado) e apenas voltar para a tela anterior.](images/erro_foto.jpeg)
+
+    - Não há um botão claro para voltar para a tela home após uma consulta.
+
+    - O botão "Continuar" não é intuitivo para indicar que levaria de volta para a home.
+
+    **Resumidamente: faltaram botões de "voltar".**
+
+3. Consistency and standards:
+
+    - ![Botões com explicação não precisam de setas adicionais (inclusive na tela de login).](images/erro_botao_iniciar.jpeg)
+
+    - O botão "Continuar" deveria levar à tela home, e não às receitas.
+
+    - A opção de adicionar alimentos sem ser por foto deveria estar mais clara.
+
+    - Deveria haver uma opção para adicionar a validade dos alimentos na lista de compras, como um botão de "+".
+
+    - A funcionalidade "receitas em alta" aparece tanto na tela inicial quanto em outra tela. É necessário manter ambos os caminhos?
+
+    - Possivelmente incluir uma opção para definir a quantidade de alimentos.
+
+    - Incluir um botão para remover itens da lista de compras.
+
+4. Aesthetic and minimalist design:
+
+    - Na segunda tela, tanto o botão quanto a câmera retornam à página anterior. É necessário manter ambos?
+
+5. Help and documentation:
+
+    - Faltou uma explicação mais intuitiva de como adicionar um novo alimento.
+
+    - O propósito da seta apontando para trás não está claro.
+
+    - O fluxo de confirmação da foto pode ser confuso. Melhorar a clareza dessa etapa.
+
+    - O título da tela de confirmação da adição do produto poderia ser mais descritivo.
+
+    - Incluir uma tela inicial explicando o propósito e objetivo principal do aplicativo.
+
+---
 
 ## **Conclusão**
 
