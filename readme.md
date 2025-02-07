@@ -44,7 +44,7 @@ A partir das respostas coletadas, destacamos os seguintes insights:
 
 Com base nesse feedback, decidimos incluir no aplicativo a opção de inserir os ingredientes manualmente por meio de uma lista, além do reconhecimento via foto. 
 
-![Gráfico de respostas do Formulários Google. Título da pergunta: Idade. Número de respostas: 32 respostas.][images/image1.png]
+![Gráfico de respostas do Formulários Google. Título da pergunta: Idade. Número de respostas: 32 respostas.](images/image1.png)
 
 ![Gráfico de respostas do Formulários Google. Título da pergunta: Sobre sua rotina, você:. Número de respostas: 32 respostas.][images/image2.png]
 
