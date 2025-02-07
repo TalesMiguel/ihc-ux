@@ -46,39 +46,39 @@ Com base nesse feedback, decidimos incluir no aplicativo a opção de inserir os
 
 ![Gráfico de respostas do Formulários Google. Título da pergunta: Idade. Número de respostas: 32 respostas.](images/image1.png)
 
-![Gráfico de respostas do Formulários Google. Título da pergunta: Sobre sua rotina, você:. Número de respostas: 32 respostas.][images/image2.png]
+![Gráfico de respostas do Formulários Google. Título da pergunta: Sobre sua rotina, você:. Número de respostas: 32 respostas.](images/image2.png)
 
-![Gráfico de respostas do Formulários Google. Título da pergunta: Caso trabalhe e/ou estude, isto é feito de que forma na maior parte do tempo?. Número de respostas: 32 respostas.][images/image3.png]
+![Gráfico de respostas do Formulários Google. Título da pergunta: Caso trabalhe e/ou estude, isto é feito de que forma na maior parte do tempo?. Número de respostas: 32 respostas.](images/image3.png)
 
-![Gráfico de respostas do Formulários Google. Título da pergunta: Com que frequência você costuma cozinhar?. Número de respostas: 32 respostas.][images/image4.png]
+![Gráfico de respostas do Formulários Google. Título da pergunta: Com que frequência você costuma cozinhar?. Número de respostas: 32 respostas.](images/image4.png)
 
-![Gráfico de respostas do Formulários Google. Título da pergunta: Quando cozinha, você costuma variar as receitas ou está limitado a um repertório reduzido?. Número de respostas: 32 respostas.][images/image5.png]
+![Gráfico de respostas do Formulários Google. Título da pergunta: Quando cozinha, você costuma variar as receitas ou está limitado a um repertório reduzido?. Número de respostas: 32 respostas.](images/image5.png)
 
-![Gráfico de respostas do Formulários Google. Título da pergunta: Se não está satisfeito, qual o principal motivo? (Escolha todas as opções que se aplicam). Número de respostas: 29 respostas.][images/image6.png]
+![Gráfico de respostas do Formulários Google. Título da pergunta: Se não está satisfeito, qual o principal motivo? (Escolha todas as opções que se aplicam). Número de respostas: 29 respostas.](images/image6.png)
 
-![Gráfico de respostas do Formulários Google. Título da pergunta: Pensando em economia financeira e em melhoria dos seus hábitos alimentares, você gostaria de cozinhar com mais frequência?. Número de respostas: 32 respostas.][images/image7.png]
+![Gráfico de respostas do Formulários Google. Título da pergunta: Pensando em economia financeira e em melhoria dos seus hábitos alimentares, você gostaria de cozinhar com mais frequência?. Número de respostas: 32 respostas.](images/image7.png)
 
-![Gráfico de respostas do Formulários Google. Título da pergunta: Você costuma fazer uma lista de compras antes de ir ao mercado?. Número de respostas: 32 respostas.][images/image8.png]
+![Gráfico de respostas do Formulários Google. Título da pergunta: Você costuma fazer uma lista de compras antes de ir ao mercado?. Número de respostas: 32 respostas.](images/image8.png)
 
-![Gráfico de respostas do Formulários Google. Título da pergunta: Você sente dificuldade em planejar uma lista de compras com base nos ingredientes que você irá utilizar ao longo do tempo?. Número de respostas: 32 respostas.][images/image9.png]
+![Gráfico de respostas do Formulários Google. Título da pergunta: Você sente dificuldade em planejar uma lista de compras com base nos ingredientes que você irá utilizar ao longo do tempo?. Número de respostas: 32 respostas.](images/image9.png)
 
-![Gráfico de respostas do Formulários Google. Título da pergunta: Com que frequência os alimentos estragam na sua geladeira/despensa. Número de respostas: 32 respostas.][images/image10.png]
+![Gráfico de respostas do Formulários Google. Título da pergunta: Com que frequência os alimentos estragam na sua geladeira/despensa. Número de respostas: 32 respostas.](images/image10.png)
 
-![Gráfico de respostas do Formulários Google. Título da pergunta: Você costuma buscar novas receitas para cozinhar?. Número de respostas: 32 respostas.][images/image11.png]
+![Gráfico de respostas do Formulários Google. Título da pergunta: Você costuma buscar novas receitas para cozinhar?. Número de respostas: 32 respostas.](images/image11.png)
 
-![Gráfico de respostas do Formulários Google. Título da pergunta: Se sim, onde você busca novas receitas? (Selecione todas que se aplicam).. Número de respostas: 32 respostas.][images/image12.png]
+![Gráfico de respostas do Formulários Google. Título da pergunta: Se sim, onde você busca novas receitas? (Selecione todas que se aplicam).. Número de respostas: 32 respostas.](images/image12.png)
 
-![Gráfico de respostas do Formulários Google. Título da pergunta: Quando encontra alguma receita que te agrade, o que mais influencia na sua escolha? (Escolha até 2).. Número de respostas: 32 respostas.][images/image13.png]
+![Gráfico de respostas do Formulários Google. Título da pergunta: Quando encontra alguma receita que te agrade, o que mais influencia na sua escolha? (Escolha até 2).. Número de respostas: 32 respostas.](images/image13.png)
 
-![Gráfico de respostas do Formulários Google. Título da pergunta: Você já utilizou algum aplicativo ou site para buscar receitas?. Número de respostas: 32 respostas.][images/image14.png]
+![Gráfico de respostas do Formulários Google. Título da pergunta: Você já utilizou algum aplicativo ou site para buscar receitas?. Número de respostas: 32 respostas.](images/image14.png)
 
-![Gráfico de respostas do Formulários Google. Título da pergunta: Se sim, o que você mais gostou na experiência?. Número de respostas: 32 respostas.][images/image15.png]
+![Gráfico de respostas do Formulários Google. Título da pergunta: Se sim, o que você mais gostou na experiência?. Número de respostas: 32 respostas.](images/image15.png)
 
-![Gráfico de respostas do Formulários Google. Título da pergunta: O que você achou mais difícil ou frustrante ao utilizar um aplicativo/site de receitas?. Número de respostas: 32 respostas.][images/image16.png]
+![Gráfico de respostas do Formulários Google. Título da pergunta: O que você achou mais difícil ou frustrante ao utilizar um aplicativo/site de receitas?. Número de respostas: 32 respostas.](images/image16.png)
 
-![Gráfico de respostas do Formulários Google. Título da pergunta: Se um aplicativo pudesse sugerir receitas baseadas nos ingredientes que você já tem em casa, você o utilizaria?. Número de respostas: 32 respostas.][images/image17.png]
+![Gráfico de respostas do Formulários Google. Título da pergunta: Se um aplicativo pudesse sugerir receitas baseadas nos ingredientes que você já tem em casa, você o utilizaria?. Número de respostas: 32 respostas.](images/image17.png)
 
-![Gráfico de respostas do Formulários Google. Título da pergunta: Quais funcionalidades você acredita que seriam mais úteis num aplicativo de receitas? (Escolha até 3). Número de respostas: 32 respostas.][images/image18.png]
+![Gráfico de respostas do Formulários Google. Título da pergunta: Quais funcionalidades você acredita que seriam mais úteis num aplicativo de receitas? (Escolha até 3). Número de respostas: 32 respostas.](images/image18.png)
 
 **📌 Desenvolvimento do Projeto**
 
@@ -87,16 +87,16 @@ Com base nesse feedback, decidimos incluir no aplicativo a opção de inserir os
 1. **Flow Analysis e Sketches**
 
    * Criamos um **fluxo de navegação** para mapear a experiência do usuário dentro do app.  
-     ![][images/image19.png]  
+     ![](images/image19.png)  
    * Desenvolvemos **sketches** para visualizar a interface e funcionalidades.  
-     ![][images/image20.png]
+     ![](images/image20.png)
 
-     ![][images/image21.png]![][images/image22.png]![][images/image23.png]  
-     ![][images/image24.png]  
+     ![](images/image21.png)![](images/image22.png)![](images/image23.png)  
+     ![](images/image24.png)  
 2. **Protótipo de Baixa Fidelidade**
 
    * Elaboramos um primeiro rascunho para testar a usabilidade do app.  
-     ![][images/image25.png]  
+     ![](images/image25.png)  
 3. **Protótipo de Alta Fidelidade**
 
    * Criamos um protótipo interativo no Figma, representando o design final da aplicação.  
